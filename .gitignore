@@ -23,3 +23,6 @@ Thumbs.db
 .env.local
 *.pem
 *.key
+
+# 本机 git TLS 配置（含本机证书，不纳入版本控制）
+.git-local/
